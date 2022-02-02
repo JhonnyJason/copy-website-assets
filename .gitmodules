@@ -1,0 +1,6 @@
+[submodule "sources"]
+	path = sources
+	url = git@github.com:JhonnyJason/copy-website-assets-sources.git
+[submodule "output"]
+	path = output
+	url = git@github.com:JhonnyJason/copy-website-assets-output.git
